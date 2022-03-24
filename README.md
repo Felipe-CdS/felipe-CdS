@@ -1,4 +1,9 @@
-### Hi there 👋
+### About Me
+My name is Felipe and I'm a software developer, a programmer.
+I'm currently a computer science student at Universidade Federal Fluminense [(IC/UFF)](http://www.ic.uff.br), but I started studying programming languages when I was 12 with just a Java book and my curiosity. Now, at 22, here I am developing my own projects.
+My main language is Portuguese but I also can speak english and korean, so feel free to message me if you have an interesting project in these languages.
+
+
 
 <!--
 **Felipe-CdS/felipe-CdS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
