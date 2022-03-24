@@ -7,9 +7,7 @@ Right now I'm working with web a lot, both backend and frontend, so most of my r
 
 My main language is portuguese, but I also can speak english fluently and at my free time I'm learning korean. So if you have an interesting project an can speak any of these 3 languages feel free to message me.
 
-No, that isn't my dog... That is Dobby.
-
-## My progamming languages:
+## - My progamming languages:
 - C;
 - Javascript / Typescript; 
 - Java;
