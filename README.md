@@ -17,14 +17,6 @@ My main language is portuguese, but I also can speak english fluently and at my 
 ## - What you will find here:
 Some of my projects. They're not all here, but some of them are. Most of the time they are just small ideas, things I'd like to try out or little projects that helped me automate something I was currently interested in. There are also some portfolio websites or job interview tests that I applied to.
 
-## - What you won't find here:
-Mostly what you won't find here are just a bunch of stuff you can already find elsewhere on Github, so don't bother looking for it here. 
-
-- Projects that were just a copy/paste from a 30 min youtube tutorial or any other "super special learning week";
-- Funny gifs, emojis, libs or anything like that just to make this page feel cute, funny or "tech".
-
-This stuff isn't my style, so if you care about emojis in the middle of documentation, I'm sorry. You won't find it here.
-
 ## - My next steps:
 Right now, my main programming goal is my blockchain analysis tool. That's what I'm working at the moment for real.
 
